@@ -1,0 +1,17 @@
+C:\Users\matheus.meira\source\repos\RabbitMQPlayground\MessageReceiver\obj\Debug\net8.0\MessageReceiver.csproj.AssemblyReference.cache
+C:\Users\matheus.meira\source\repos\RabbitMQPlayground\MessageReceiver\obj\Debug\net8.0\MessageReceiver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matheus.meira\source\repos\RabbitMQPlayground\MessageReceiver\obj\Debug\net8.0\MessageReceiver.AssemblyInfoInputs.cache
+C:\Users\matheus.meira\source\repos\RabbitMQPlayground\MessageReceiver\obj\Debug\net8.0\MessageReceiver.AssemblyInfo.cs
+C:\Users\matheus.meira\source\repos\RabbitMQPlayground\MessageReceiver\obj\Debug\net8.0\MessageReceiver.csproj.CoreCompileInputs.cache
+C:\Users\matheus.meira\source\repos\RabbitMQPlayground\MessageReceiver\bin\Debug\net8.0\MessageReceiver.exe
+C:\Users\matheus.meira\source\repos\RabbitMQPlayground\MessageReceiver\bin\Debug\net8.0\MessageReceiver.deps.json
+C:\Users\matheus.meira\source\repos\RabbitMQPlayground\MessageReceiver\bin\Debug\net8.0\MessageReceiver.runtimeconfig.json
+C:\Users\matheus.meira\source\repos\RabbitMQPlayground\MessageReceiver\bin\Debug\net8.0\MessageReceiver.dll
+C:\Users\matheus.meira\source\repos\RabbitMQPlayground\MessageReceiver\bin\Debug\net8.0\MessageReceiver.pdb
+C:\Users\matheus.meira\source\repos\RabbitMQPlayground\MessageReceiver\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Users\matheus.meira\source\repos\RabbitMQPlayground\MessageReceiver\obj\Debug\net8.0\MessageR.34D818C2.Up2Date
+C:\Users\matheus.meira\source\repos\RabbitMQPlayground\MessageReceiver\obj\Debug\net8.0\MessageReceiver.dll
+C:\Users\matheus.meira\source\repos\RabbitMQPlayground\MessageReceiver\obj\Debug\net8.0\refint\MessageReceiver.dll
+C:\Users\matheus.meira\source\repos\RabbitMQPlayground\MessageReceiver\obj\Debug\net8.0\MessageReceiver.pdb
+C:\Users\matheus.meira\source\repos\RabbitMQPlayground\MessageReceiver\obj\Debug\net8.0\MessageReceiver.genruntimeconfig.cache
+C:\Users\matheus.meira\source\repos\RabbitMQPlayground\MessageReceiver\obj\Debug\net8.0\ref\MessageReceiver.dll

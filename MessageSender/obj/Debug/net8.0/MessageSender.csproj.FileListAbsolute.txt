@@ -1,0 +1,17 @@
+C:\Users\matheus.meira\source\repos\RabbitMQPlayground\MessageSender\bin\Debug\net8.0\MessageSender.exe
+C:\Users\matheus.meira\source\repos\RabbitMQPlayground\MessageSender\bin\Debug\net8.0\MessageSender.deps.json
+C:\Users\matheus.meira\source\repos\RabbitMQPlayground\MessageSender\bin\Debug\net8.0\MessageSender.runtimeconfig.json
+C:\Users\matheus.meira\source\repos\RabbitMQPlayground\MessageSender\bin\Debug\net8.0\MessageSender.dll
+C:\Users\matheus.meira\source\repos\RabbitMQPlayground\MessageSender\bin\Debug\net8.0\MessageSender.pdb
+C:\Users\matheus.meira\source\repos\RabbitMQPlayground\MessageSender\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Users\matheus.meira\source\repos\RabbitMQPlayground\MessageSender\obj\Debug\net8.0\MessageSender.csproj.AssemblyReference.cache
+C:\Users\matheus.meira\source\repos\RabbitMQPlayground\MessageSender\obj\Debug\net8.0\MessageSender.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matheus.meira\source\repos\RabbitMQPlayground\MessageSender\obj\Debug\net8.0\MessageSender.AssemblyInfoInputs.cache
+C:\Users\matheus.meira\source\repos\RabbitMQPlayground\MessageSender\obj\Debug\net8.0\MessageSender.AssemblyInfo.cs
+C:\Users\matheus.meira\source\repos\RabbitMQPlayground\MessageSender\obj\Debug\net8.0\MessageSender.csproj.CoreCompileInputs.cache
+C:\Users\matheus.meira\source\repos\RabbitMQPlayground\MessageSender\obj\Debug\net8.0\MessageS.F1945F10.Up2Date
+C:\Users\matheus.meira\source\repos\RabbitMQPlayground\MessageSender\obj\Debug\net8.0\MessageSender.dll
+C:\Users\matheus.meira\source\repos\RabbitMQPlayground\MessageSender\obj\Debug\net8.0\refint\MessageSender.dll
+C:\Users\matheus.meira\source\repos\RabbitMQPlayground\MessageSender\obj\Debug\net8.0\MessageSender.pdb
+C:\Users\matheus.meira\source\repos\RabbitMQPlayground\MessageSender\obj\Debug\net8.0\MessageSender.genruntimeconfig.cache
+C:\Users\matheus.meira\source\repos\RabbitMQPlayground\MessageSender\obj\Debug\net8.0\ref\MessageSender.dll
